@@ -1,73 +1,59 @@
-# Welcome to your Lovable project
+Craft Heritage
+A modern web application for exploring, learning, and sharing traditional crafts and cultural heritage.
 
-## Project info
+Project Structure
 
-**URL**: https://lovable.dev/projects/c72593a0-2d61-482b-8aff-016e3056cfd8
+craft-heritage/
+├── public/                # Static assets (favicon, robots.txt, images)
+├── src/                   # Source code
+│   ├── assets/            # Images and media
+│   ├── components/        # Reusable UI components
+│   │   └── ui/            # UI primitives (accordion, button, dialog, etc.)
+│   ├── hooks/             # Custom React hooks
+│   ├── lib/               # Utility functions
+│   ├── pages/             # Main app pages (Landing, Dashboard, Explore, etc.)
+│   ├── App.tsx            # Main app component
+│   ├── App.css            # Global styles
+│   └── main.tsx           # App entry point
+├── package.json           # Project metadata and dependencies
+├── vite.config.ts         # Vite configuration
+├── tailwind.config.ts     # Tailwind CSS config
+├── tsconfig*.json         # TypeScript configs
+└── README.md              # Project documentation
 
-## How can I edit this code?
+Getting Started
 
-There are several ways of editing your application.
+1. Clone the repository
 
-**Use Lovable**
+git clone https://github.com/giripriyansenthilkumar/craft-heritage.git
+cd craft-heritage
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/c72593a0-2d61-482b-8aff-016e3056cfd8) and start prompting.
+2. Install dependencies
 
-Changes made via Lovable will be committed automatically to this repo.
+npm install
 
-**Use your preferred IDE**
+3. Start the development server
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
-```
 
-**Edit a file directly in GitHub**
+The app will be available at http://localhost:8080.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Technologies Used
+1. Vite
+2. React
+3. TypeScript
+4. shadcn-ui
+5. Tailwind CSS
 
-**Use GitHub Codespaces**
+Folder Highlights
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+ui — UI primitives for building consistent interfaces
+pages — Main pages like Landing, Dashboard, Explore, Community, Lessons, Trends, NotFound
+hooks — Custom hooks for mobile detection, toast notifications, etc.
+lib — Utility functions
 
-## What technologies are used for this project?
+Contributing
+Feel free to open issues or submit pull requests to improve the project.
 
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/c72593a0-2d61-482b-8aff-016e3056cfd8) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+License
+MIT

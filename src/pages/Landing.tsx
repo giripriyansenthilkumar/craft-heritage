@@ -132,7 +132,7 @@ export default function Landing() {
             <Button 
               variant="outline" 
               size="xl"
-              className="border-white/30 text-white hover:bg-white/10 hover:border-white/50"
+              className="border-white/30 text-black hover:bg-white/10 hover:border-white/50"
               onClick={() => handleAuth("signup")}
             >
               <Compass className="w-5 h-5 mr-2" />
@@ -226,7 +226,7 @@ export default function Landing() {
             <Button 
               variant="outline" 
               size="xl"
-              className="border-white text-white hover:bg-white hover:text-primary transition-smooth"
+              className="border-white text-black hover:bg-white hover:text-primary transition-smooth"
               onClick={() => handleAuth("signup")}
             >
               <Palette className="w-5 h-5 mr-2" />
