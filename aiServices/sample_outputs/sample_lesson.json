@@ -1,0 +1,66 @@
+{
+  "craft_name": "Madhubani Painting",
+  "category": "painting",
+  "region": "Bihar, India",
+  "lesson_title": "Introduction to Madhubani Painting: Creating Traditional Mithila Art",
+  "introduction": "In this comprehensive lesson, you will learn the ancient art of Madhubani painting, a traditional folk art from Bihar, India. You will discover the techniques used by generations of artisans to create vibrant, symbolic artwork using natural materials and geometric patterns. By the end of this lesson, you will be able to create your own Madhubani-style painting while understanding its cultural significance and traditional symbolism.",
+  "materials_required": [
+    "Handmade paper or canvas (preferably textured)",
+    "Natural pigments or acrylic paints (red, yellow, blue, green, black, white)",
+    "Bamboo sticks or fine-tipped brushes",
+    "Cotton cloth or cotton swabs for blending",
+    "Pencil and eraser for initial sketching",
+    "Bowl of water for mixing colors",
+    "Palette or mixing tray",
+    "Natural adhesive (rice paste or gum arabic) for binding pigments"
+  ],
+  "steps": [
+    "Step 1: Prepare your workspace with all materials laid out. If using natural pigments, mix them with water and natural adhesive to create a smooth, paintable consistency.",
+    "Step 2: Lightly sketch your main subject (deity, animal, or nature motif) in the center of your paper using a pencil. Traditional Madhubani paintings often feature concentric circles or rectangular borders.",
+    "Step 3: Draw the outer border using geometric patterns such as zigzags, dots, or floral motifs. This frame is essential in Madhubani art and contains the central imagery.",
+    "Step 4: Begin filling in the main subject with bold, black outlines using a fine brush or bamboo stick. Madhubani art is characterized by strong, confident lines.",
+    "Step 5: Add intricate details within the main figure using traditional patterns like fish scales, cross-hatching, or floral designs. Remember, there should be no empty spaces.",
+    "Step 6: Start applying colors, traditionally beginning with red and yellow. Use flat, vibrant colors without shading or gradients. Each section should be filled completely.",
+    "Step 7: Fill all remaining spaces with smaller motifs, dots, lines, and patterns. This is called 'filling' and is crucial to authentic Madhubani style.",
+    "Step 8: Add final touches with white or contrasting colors to create highlights and enhance details. Use dots and small lines to add texture.",
+    "Step 9: Create a double or triple border around the entire painting using contrasting colors and geometric patterns.",
+    "Step 10: Allow the painting to dry completely. If using natural pigments, this may take several hours. Once dry, your Madhubani painting is complete."
+  ],
+  "quiz": [
+    {
+      "question": "What is the most distinctive characteristic of Madhubani painting?",
+      "options": [
+        "A) No empty spaces - every area is filled with patterns and colors",
+        "B) Use of only black and white colors",
+        "C) Abstract shapes with no recognizable forms",
+        "D) Three-dimensional shading techniques"
+      ],
+      "answer": "A"
+    },
+    {
+      "question": "Which material is traditionally used to create brushes in Madhubani painting?",
+      "options": [
+        "A) Synthetic fibers",
+        "B) Bamboo sticks and cotton",
+        "C) Metal wire",
+        "D) Plastic straws"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "What do fish symbolize in Madhubani art?",
+      "options": [
+        "A) Danger and fear",
+        "B) Sadness and loss",
+        "C) Fertility and prosperity",
+        "D) Anger and conflict"
+      ],
+      "answer": "C"
+    }
+  ],
+  "summary": "You have successfully learned the fundamental techniques of Madhubani painting, including the use of natural materials, traditional symbolism, and the characteristic style of filling every space with intricate patterns. This ancient art form is not just about creating beautiful images, but also about preserving cultural heritage and expressing spiritual beliefs through visual storytelling.",
+  "meta": {
+    "generated_by": "gemini-pro",
+    "generated_at": "2024-01-15T10:35:00Z"
+  }
+}

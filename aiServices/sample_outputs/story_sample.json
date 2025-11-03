@@ -1,0 +1,21 @@
+{
+  "text": "Pottery in India is an ancient craft that dates back to the Indus Valley Civilization, around 3000 BCE. The art of shaping clay into functional and decorative items has been passed down through generations of skilled artisans. Traditional Indian pottery encompasses a wide range of styles, from the terracotta works of rural villages to the sophisticated blue pottery of Jaipur. The craft represents not just utility but also cultural identity, with each region developing its own distinctive techniques and designs.\n\nIndian potters, known as 'Kumhars', have maintained their craft through centuries, working with locally sourced clay and traditional firing methods. The pottery wheel, or 'chak', remains central to their practice, symbolizing the cyclical nature of creation. These artisans create everything from everyday cooking vessels to elaborate decorative pieces, each item bearing the mark of human hands and ancient wisdom. The craft continues to thrive in contemporary India, bridging the gap between traditional heritage and modern aesthetics.",
+  "json": {
+    "craft_name": "Pottery",
+    "region": "India",
+    "category": "pottery",
+    "story": {
+      "title": "The Timeless Art of Indian Pottery",
+      "historical_origin": "Dating back to the Indus Valley Civilization (3000 BCE), Indian pottery is one of the world's oldest crafts. Archaeological evidence shows sophisticated pottery techniques were used for both functional and ceremonial purposes.",
+      "artisan_background": "Traditional potters, called 'Kumhars', belong to families that have practiced this craft for generations. They work in small workshops, often located near clay-rich areas, using skills passed down through oral tradition and hands-on apprenticeship.",
+      "cultural_significance": "Pottery holds deep cultural significance in Indian society, used in religious ceremonies, festivals, and daily life. Clay lamps (diyas) are essential for Diwali celebrations, while earthen pots are considered auspicious for storing water and cooking.",
+      "symbolism": "The potter's wheel symbolizes the cycle of creation and destruction in Hindu philosophy. Clay represents the earth element, and the transformation of raw clay into finished pottery mirrors spiritual transformation and rebirth.",
+      "traditional_usage": "Traditional Indian pottery serves multiple purposes: water storage pots (matkas) that naturally cool water, cooking vessels that enhance food flavor, decorative items for homes and temples, and ceremonial objects for religious rituals.",
+      "why_unique": "Indian pottery is unique for its regional diversity, natural clay compositions, traditional firing techniques using wood or dung fuel, hand-painted designs, and the sustainable, eco-friendly nature of the craft that continues to thrive in the modern era."
+    },
+    "meta": {
+      "generated_by": "gemini-2.5-flash",
+      "generated_at": "2025-11-02T07:00:00.000000Z"
+    }
+  }
+}
